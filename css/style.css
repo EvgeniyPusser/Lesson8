@@ -1,0 +1,30 @@
+
+
+
+
+/* Стили для класса .logo */
+.logo {
+  font-family: 'Roboto', sans-serif;
+  /* Подключенный шрифт */
+  font-weight: 900;
+  /* Самый жирный стиль текста */
+  font-size: 36px;
+  /* Размер текста */
+  color: #333;
+  /* Цвет текста */
+}
+
+/* Стили для класса .text */
+.text {
+  font-family: 'break_loveregular', sans-serif;
+  /* font-family: 'Roboto', sans-serif;
+  /* Подключенный шрифт */
+  /* font-weight: 100;
+  /* Самый тонкий стиль текста */
+  /* font-size: 16px;
+  /* Размер текста */
+ 
+  /* Межстрочный интервал */
+  /* color: #666;
+  Цвет текста */ 
+}
