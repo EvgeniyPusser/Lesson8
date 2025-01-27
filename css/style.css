@@ -17,6 +17,7 @@
 /* Стили для класса .text */
 .text {
   font-family: 'break_loveregular', sans-serif;
+    /*ont-family: 'alex-brush', sans-serif;
   /* font-family: 'Roboto', sans-serif;
   /* Подключенный шрифт */
   /* font-weight: 100;
@@ -28,3 +29,7 @@
   /* color: #666;
   Цвет текста */ 
 }
+/* @font-face {
+  font-family: 'break_loveregular';
+  src: url('../fonts/break_love_font-webfont.woff2') format('woff2')
+} */
